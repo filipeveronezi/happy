@@ -1,2 +1,2 @@
 # Projeto Happy
-Projeto Happy desenvolvido a partir da NLW #3 da https://rocketseat.com.br/.
+Projeto Happy desenvolvido através da NLW #3 da https://rocketseat.com.br/.
