@@ -1,2 +1,2 @@
-# happy
-Projeto Happy da NLW 3
+# Projeto Happy
+Projeto Happy desenvolvido a partir da NLW #3 da https://rocketseat.com.br/.
