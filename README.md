@@ -33,5 +33,15 @@ Projeto Happy desenvolvido através da NLW #3 da [Rocketseat](https://rocketseat
 
 ### Day 4
 
-- 
+- Instalação e utilização do [**Node.js**](https://nodejs.org/) para início do *Back-end*;
+- Utilização do gerenciador de pacotes **npm** para instalação dos pacotes:
+  - ***express***
+  - ***nodemon***
+- Configuração de um servidor em *Javascript*;
+- Conceito de rotas;
+- Utilização do [Handlebars](https://handlebarsjs.com/) para comunicação do *Front-end* com o *Back-end*;
+- Conceito de páginas dinâmicas.
 
+### Day 5
+
+- 
