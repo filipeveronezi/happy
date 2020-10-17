@@ -22,3 +22,16 @@ Projeto Happy desenvolvido através da NLW #3 da [Rocketseat](https://rocketseat
 - Manipulação de variáveis globais;
 - CSS Grid.
 
+### Day 3
+
+- Utilização de formulários:
+  - Preparação de variáveis para JS;
+  - Estilização com CSS;
+  - Utilização de inputs do tipo *hidden*;
+- Utilização de *arrow functions*;
+- Manipulação de elementos da *DOM*.
+
+### Day 4
+
+- 
+
