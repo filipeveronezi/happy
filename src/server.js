@@ -7,6 +7,9 @@ const server = express();
 
 
 server
+    // use post body
+    .use(express.urlencoded({ extended: true }))
+
     // adding static files
     .use(express.static(path.join('public')))
 
@@ -19,7 +22,7 @@ server
     .get('/orphanage', pages.orphanage)
     .get('/orphanages', pages.orphanages)
     .get('/create-orphanage', pages.createOrphanage)
-
+    .post('/save-orphanage', pages.saveOrphanage)
 
     // server up
     .listen(5500);

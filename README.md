@@ -44,4 +44,10 @@ Projeto Happy desenvolvido através da NLW #3 da [Rocketseat](https://rocketseat
 
 ### Day 5
 
-- 
+- Utilização de `#each` e `#if` com *Handlebars*;
+- Importância da *Template Engine* para páginas dinâmicas;
+- SQL;
+- Distribuição e definição de responsabilidades;
+- Condições ternárias;
+- Importância das classes CSS quando ocorre mudança de tag;
+- Ferramentas de *debug*;
