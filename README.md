@@ -19,8 +19,9 @@ Projeto Happy desenvolvido através da NLW #3 da [Rocketseat](https://rocketseat
 - Diferença entre driver nativo, Query Builder (ex:knex) e ORM (ex: typeorm);
 - Uso da abstração ORM para manipulação de banco de dados;
 - Uso de Models e Controllers para abstração;
-- Métodos HTTP - GET, POST, PUT, DELETE
-- 
+- Métodos HTTP - GET, POST, PUT, DELETE;
+- Tratamento de exceções com *express-async-errors*;
+- Validação de dados com *yup*.
 
 ### Day 3
 
