@@ -7,7 +7,7 @@ import L from 'leaflet';
 import mapMarkerImg from '../../assets/images/map-marker.svg';
 
 import PrimaryButton from "../../components/PrimaryButton";
-import Sidebar from "../../components/Sidebar";
+import Sidebar from "../components/Sidebar";
 import Map from "../../components/Map";
 
 import './styles.css';
